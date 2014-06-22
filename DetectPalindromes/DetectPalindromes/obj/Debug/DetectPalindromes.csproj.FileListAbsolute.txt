@@ -1,0 +1,6 @@
+\\VBOXSVR\MacLaren_\DetectPalindromes\DetectPalindromes\bin\Debug\DetectPalindromes.exe.config
+\\VBOXSVR\MacLaren_\DetectPalindromes\DetectPalindromes\bin\Debug\DetectPalindromes.exe
+\\VBOXSVR\MacLaren_\DetectPalindromes\DetectPalindromes\bin\Debug\DetectPalindromes.pdb
+\\VBOXSVR\MacLaren_\DetectPalindromes\DetectPalindromes\obj\Debug\DetectPalindromes.csprojResolveAssemblyReference.cache
+\\VBOXSVR\MacLaren_\DetectPalindromes\DetectPalindromes\obj\Debug\DetectPalindromes.exe
+\\VBOXSVR\MacLaren_\DetectPalindromes\DetectPalindromes\obj\Debug\DetectPalindromes.pdb
